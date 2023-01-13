@@ -1,0 +1,28 @@
+machine learning
+web / app development
+open source constribution
+heackathons
+ardiuno
+gsoc
+leetcode
+copywriting
+content writing
+engineering mechanics and graphics
+
+
+
+// c graphics
+DSA - C++ 
+DSA - C LANGUAGE
+REMAINING TOPICS IN C
+      POINTERS
+      RECURSION
+      MEMORY ADDRESS
+      FUNCTIONS
+      MATH FUNCTIONS 
+      ENUM
+      STRINGS
+      
+      MATH.H
+      CONIO.H
+      GRAPHICS.H
